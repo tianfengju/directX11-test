@@ -1,7 +1,5 @@
 #include "main.h"
-//#include "base_scene.h"
 #include "manager.h"
-//#include "SceneMa.h"
 #include "renderer.h"
 #include "input.h"
 #include "Scene.h"
